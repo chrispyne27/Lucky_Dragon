@@ -4,7 +4,8 @@
         "description": "Zippy Dragon Behavior Pack",
         "name": "ZippyDragonBehaviorPack",
         "uuid": "4d5a3fa7-b0ce-413b-94e9-0e567f4bc812",
-        "version": [1, 0, 0]
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {

@@ -4,7 +4,8 @@
         "description": "Zippy Dragon Resource Pack",
         "name": "ZippyDragonResourcePack",
         "uuid": "74d08f87-0c9a-4e1a-ab77-e6a3c3b2a970",
-        "version": [1, 0, 0]
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
