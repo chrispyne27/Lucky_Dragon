@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Zippy Dragon Behavior Pack",
+        "name": "ZippyDragonBehaviorPack",
+        "uuid": "33333333-3333-3333-3333-333333333333",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Zippy Dragon Behavior Pack",
+            "type": "data",
+            "uuid": "44444444-4444-4444-4444-444444444444",
+            "version": [1, 0, 0]
+        }
+    ]
+}
