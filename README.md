@@ -11,3 +11,4 @@ This project has been created as a fun project for me and my kids.
   * First ability of lightning breath
   * The second ability is to create thunderstorms if harmed and a 30% change when ridden and untamed.
   * Can be tamed and mounted as a flying mount
+  * Yellow lightning-themed skin color
