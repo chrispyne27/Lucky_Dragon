@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10",
+    "animations": {
+        "animation.dragon.fly": {
+            "loop": true,
+            "bones": {
+                "body": { "rotation": [0, "Math.sin(query.anim_time) * 30", 0] }
+            }
+        }
+    }
+}
